@@ -28,6 +28,7 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+.vector_cache/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -133,3 +134,4 @@ fabric.properties
 
 # idea folder, uncomment if you don't need it
 .idea
+.DS_Store
