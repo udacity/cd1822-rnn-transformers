@@ -6,4 +6,4 @@ pandas==1.5.3
 scikit-learn==1.2.2
 sentencepiece==0.1.97
 torch==1.12.1
-transformers==4.27.4
+transformers==4.30.0
